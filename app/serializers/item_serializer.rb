@@ -3,4 +3,7 @@ class ItemSerializer < ActiveModel::Serializer
              :name,
              :description,
              :image_url
+
+  has_many :orders
+
 end
