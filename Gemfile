@@ -12,10 +12,7 @@ gem 'faker'
 gem 'haml-rails'
 gem 'therubyracer'
 gem 'less-rails-bootstrap'
-
-group :development do
-  gem 'spring'
-end
+gem 'active_model_serializers'
 
 group :development, :test do
   gem 'capybara'
