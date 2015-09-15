@@ -1,5 +1,6 @@
 ## Storedom
 
+
 Storedom is a simplistic e-commerce application used
 for various lessons and tutorials at Turing.
 
