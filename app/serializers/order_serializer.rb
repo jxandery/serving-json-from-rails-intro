@@ -4,7 +4,6 @@ class OrderSerializer < ActiveModel::Serializer
              :user_id,
              :order_user
 
-  has_many :order_items
   has_many :items
 
   def order_user
